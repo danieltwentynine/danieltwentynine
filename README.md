@@ -46,10 +46,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieltwentynine&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltwentynine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-<div align="center">
-  <h1>Goodbye!</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFzOGY2cGJ1OXNjMGxva3hzaW5xNGc4bzNiNWlwaW1sYW5sYWE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" />
-</div>
-
