@@ -1,31 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4ZTY3YXlrdHpicHpkdGJ3dm13ZTZrc3JlcHNvcmd4aDYzczc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/daniel-cardoso-052b9721a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.x.com/@lonenightjar">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=danieltwentynine&style=flat-square&color=blue"/>
 </div>
 
   <h1 align="center">
     Hi..<br>Welcome to my profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl1MDBvbWFqYjRycTRnZnpvdTJsamM2MTBlNTkzMjA0eWR6NmlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="600" height="300"/>
-  </div>
 
   ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> born in USA and living in Brazil.
-  - :telescope: I am currently studying to become a Full Stack Python Developer. But I also have interests in other languages, such as Rust, Erlang, Zigs and Golang.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - :telescope: I am currently studying to become a Full Stack Python Developer. But I also have interests in other languages, such as Rust, Erlang, Zig and Golang.
 
-  - :seedling: Learning more and more about tech. Also, improving my character daily, 1% at a time!
+  - :seedling: 1% better every single day! That's my motto.
 
-  - :zap: In my free time, I watch anime and read books. Sometimes I play videogames.
+  - :zap: In my free time, I watch anime, read books and workout, especially running.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
