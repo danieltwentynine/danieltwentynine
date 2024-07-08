@@ -3,8 +3,7 @@
 </div>
 
   <h1 align="center">
-    Yep, Code & Sleep!
-    Feels bad man. But its life!
+    Wake up - Eat - Code - Sleep - Repeat
   </h1>
   <p align="center">
     <strong>
