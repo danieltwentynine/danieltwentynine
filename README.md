@@ -17,12 +17,8 @@
   </p>
   
   - :seedling: 1% better every single day! That's my motto.
-
-  - :zap: All the time is grinding, even when I'm watching anime. I Grind! <br> What's the point in seeing the MC level up, when you yourself doesn't level up!
-
-  - :latin_cross: God is my Mentor. Everyday is a battle and everyday I receive strength from Him!
-
+  
   - :phone: Talk with me about anything. Feel free to hit me up with awesome ideas! :exploding_head:
   - Email: danielmcardoso2016@protonmail.com
   - LinkedIn: <a href="https://www.linkedin.com/in/daniel-cardoso-052b9721a/" target="_blank">Me on LinkedIn</a>
-  - Yep, that's it. I am not a social media guy.
+  - Instagram: <a href="https://www.instagram.com/danielmc_23/">Me on Instagram</a>
