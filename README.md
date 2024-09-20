@@ -3,7 +3,7 @@
 </div>
 
   <h1 align="center">
-    Wake up - Eat - Code - Sleep - Repeat
+    Wake up - Eat - Run - Code - Sleep - Repeat
   </h1>
   <p align="center">
     <strong>
@@ -19,6 +19,6 @@
   - :seedling: 1% better every single day! That's my motto.
   
   - :phone: Talk with me about anything. Feel free to hit me up with awesome ideas! :exploding_head:
-  - Email: danielmcardoso2016@protonmail.com
+  - Email: danielmcardoso29@gmail.com
   - LinkedIn: <a href="https://www.linkedin.com/in/daniel-cardoso-052b9721a/" target="_blank">Me on LinkedIn</a>
   - Instagram: <a href="https://www.instagram.com/danielmc_23/">Me on Instagram</a>
