@@ -20,5 +20,5 @@
   
   - :phone: Talk with me about anything. Feel free to hit me up with awesome ideas! :exploding_head:
   - Email: danielmcardoso29@gmail.com
-  - LinkedIn: <a href="www.linkedin.com/in/daniel-moraes-cardoso-052b9721a" target="_blank">Me on LinkedIn</a>
+  - LinkedIn: <a href="www.linkedin.com/in/dev-daniel-m-cardoso" target="_blank">Me on LinkedIn</a>
   - Instagram: <a href="https://www.instagram.com/danielmc_23/">Me on Instagram</a>
