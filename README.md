@@ -19,12 +19,10 @@
   - Email: danielmcardoso2016@protonmail.com
   - LinkedIn: Currently unavailable
   - Instagram: <a href="https://www.instagram.com/onepercentdan/">Me on Instagram</a>
+  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltwentynine&theme=tokyonight&show_icons=true)
 
-<ul>
-  <li>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=danieltwentynine)](https://github.com/ryo-ma/github-profile-trophy)
-  </li>
-  <li>
-    ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltwentynine&theme=tokyonight&show_icons=true)
-  </li>
-</ul>
+<br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danieltwentynine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
