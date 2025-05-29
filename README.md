@@ -1,17 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4ZTY3YXlrdHpicHpkdGJ3dm13ZTZrc3JlcHNvcmd4aDYzczc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl6MWVsbml5anMwdTIzdG5iYnZ3d240MXkzY3hnM2ltaWJ6N3Q2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jvzxn0c33thWUg7wqO/giphy.gif" width="200"/>
 </div>
 
   <h1 align="center">
-    Wake up - Eat - Run - Code - Sleep - Repeat
+    Hello!!!
   </h1>
   <p align="center">
     <strong>
       <i>
-        “A warrior is a guy that goes, I’m here again today. 
-        <br> I’ll be here again tomorrow and the next day. 
-        <br> It’s a person who puts no limit on what’s possible.” 
-        <br>- David Goggins
+        “If you don’t take risks, you can’t create a future.”<br><br>—Monkey D. Luffy, One Piece
       </i>
     </strong>
   </p>
