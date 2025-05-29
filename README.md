@@ -21,3 +21,4 @@
   - Instagram: <a href="https://www.instagram.com/onepercentdan/">Me on Instagram</a>
 
   ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltwentynine&theme=tokyonight&show_icons=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=danieltwentynine)](https://github.com/ryo-ma/github-profile-trophy)
