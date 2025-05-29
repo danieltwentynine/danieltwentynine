@@ -19,6 +19,6 @@
   - :seedling: 1% better every single day! That's my motto.
   
   - :phone: Talk with me about anything. Feel free to hit me up with awesome ideas! :exploding_head:
-  - Email: danielmcardoso29@gmail.com
-  - LinkedIn: <a href="www.linkedin.com/in/dev-daniel-m-cardoso" target="_blank">Me on LinkedIn</a>
-  - Instagram: <a href="https://www.instagram.com/danielmc_23/">Me on Instagram</a>
+  - Email: danielmcardoso2016@protonmail.com
+  - LinkedIn: Currently unavailable
+  - Instagram: <a href="https://www.instagram.com/onepercentdan/">Me on Instagram</a>
