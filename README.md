@@ -24,5 +24,5 @@
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieltwentynine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danieltwentynine&theme=onedark)](https://github.com/danieltwentynine/github-profile-trophy)
 
