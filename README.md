@@ -19,3 +19,5 @@
   - Email: danielmcardoso2016@protonmail.com
   - LinkedIn: Currently unavailable
   - Instagram: <a href="https://www.instagram.com/onepercentdan/">Me on Instagram</a>
+
+  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltwentynine&theme=dark&show_icons=true)
