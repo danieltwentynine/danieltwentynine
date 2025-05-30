@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=danieltwentynine&layout=compact&langs_count=7&theme=tokyonight"/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=danieltwentynine&layout=compact&langs_count=7&theme=tokyonight
 
 <br><br>
 
