@@ -17,7 +17,7 @@
 - 📱 Talk with me about anything. Feel free to hit me up with awesome ideas! 🤯  
 - 📧 Email: **danielmcardoso2016@protonmail.com**
 - 📷 Instagram: [@onepercentdan](https://www.instagram.com/onepercentdan/)
-- 💼 LinkedIn: *Currently unavailable*
+- 💼 LinkedIn: [Daniel M Cardoso](www.linkedin.com/in/--dmc-dev)
 
 ---
 
