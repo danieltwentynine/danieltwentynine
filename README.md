@@ -15,7 +15,7 @@
 
 - 💡 1% better every single day — that's my motto.
 - 📱 Talk with me about anything. Feel free to hit me up with awesome ideas! 🤯  
-- 📧 Email: **danielmcardoso2016@protonmail.com**
+- 📧 Email: **crimsonglade9@gmail.com**
 - 📷 Instagram: [@daniel_m_cardoso](https://www.instagram.com/daniel_m_cardoso/)
 - 💼 LinkedIn: [Daniel M Cardoso](https://www.linkedin.com/in/--dmc-dev/)
 
